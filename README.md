@@ -1,2 +1,2 @@
 # Goofy-Feet
-Lex/Yacc Generated Lattice Parser
+Lex/Yacc Generated Lattice Parser.
